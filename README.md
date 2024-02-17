@@ -25,5 +25,3 @@ My other social networks :point_down:
 [![Keven Henrique stats](https://github-readme-stats.vercel.app/api?username=Keven1204)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keven1204)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Keven1204&repo=github-readme-stats)](https://github.com/Keven1204/github-readme-stats)
