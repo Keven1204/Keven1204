@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-✔️ Meu nome é Keven Henrique, sou um desenvolvedor web. Atualmente estou em transição de carreira e criando projetos com as linguagens e tecnologias: ✏️
+✔️ Meu nome é Keven Henrique, sou um Desenvolvedor de Software. Atualmente estou em transição de carreira e criando projetos com as linguagens e tecnologias: ✏️
 <br>
 <br>
 - :arrow_forward: <a href = "https://www.google.com.br/" target = "_blank"><img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html-logo"></a>
