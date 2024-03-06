@@ -21,7 +21,7 @@ My other social networks :point_down:
 <br>
 <a href = "https://www.instagram.com/kevinho_de_oliveira/" target = "_blank"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt = "instagram-logo"></a>
 <a href = "https://www.linkedin.com/in/keven-oliveira-8a025426a/" target = "_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "linkedin-logo"></a>
-<a href = "https://wa.me/51996269938" target = "_blank"><img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt = "WhatsApp-logo"></a>
+<a href = "https://wa.me/5551996269938" target = "_blank"><img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt = "WhatsApp-logo"></a>
 
 
 
